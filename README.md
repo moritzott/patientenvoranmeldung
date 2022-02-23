@@ -9,6 +9,7 @@ noch vor dem Eintreffen im Krankenhaus besser einordnen oder gar Patienten vorab
 
 ## Live-Demo
 
+[Probieren Sie die aktuelle Version im Browser aus](https://moritzott.github.io/patientenvoranmeldung/)
 
 
 ## Lokal ausprobieren
